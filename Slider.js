@@ -44,12 +44,11 @@ btnLeft.addEventListener("click", function(){
     prev();
    });
  
-  //  setInterval(function(){
-  //   Next();
+   setInterval(function(){
+    Next();
    
-  //  }, 5000);
+   }, 10000);
    
 
-// btn main nav
 
 
